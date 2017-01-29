@@ -1,0 +1,22 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+.header {
+  padding: 150px 20px;
+  background-color: #28323B;
+}
+
+.header h1 {
+  color: #9ecac4;
+}
+.header h2 {
+  color: #27A595;
+}
+
+#fotos {
+  margin-top: 50px
+}
+.image {
+  display: block;
+  max-width: 100%;
+}
